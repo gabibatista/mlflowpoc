@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/98c20fe21d2349a6bfefbe86d16a6e47/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 98c20fe21d2349a6bfefbe86d16a6e47
+run_uuid: 98c20fe21d2349a6bfefbe86d16a6e47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1646328787970
+status: 1
+tags: []
+user_id: gabriela.batista

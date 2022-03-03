@@ -1,0 +1,4 @@
+In this mlflow run named `final_test` is saved:
+- **vectorizer**: a sklearn pipeline that applies a TfIdfVectorizer.
+- **clustering**: a sklearn AgglomerativeClustering that separates the reviews into clusters in a non-supervised and hierarquical way.
+- **classifier**: a sklearn DecisionTreeClassifier being trained on top of the clusterized reviews.
