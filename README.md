@@ -13,3 +13,5 @@ Three models are created, saved and loaded locally in these notebooks:
 
 My notes on MLFlow:
 Easy to use and very valuable for ml projects.
+
+To start MLFlow UI run `mlflow ui` on your terminal and open http://localhost:5000
